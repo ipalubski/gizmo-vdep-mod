@@ -2,7 +2,7 @@ This is a patch to the current publicly-available version of GIZMO (http://www.t
 
 New Compilation time flags for the SIDM scattering are:
 
-SIDM_ISOTROPIC
+SIDM_ISOTROPIC \\
 SIDM_ANISOTROPIC
 
 These need to be set in addition to DM_SIDM
