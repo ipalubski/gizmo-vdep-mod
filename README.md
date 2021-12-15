@@ -1,4 +1,4 @@
-This is a patch to the current publicly-available version of GIZMO (http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html). It adds isotropic and anisotropic velocity-dependent SIDM cross section as well as an evolving 3-component Baryon Disk Potential.
+This is a patch to the current publicly-available version of GIZMO (http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html). It adds isotropic and anisotropic velocity-dependent (Yukawa-like potential) SIDM cross section as well as an evolving 3-component Baryon Disk Potential.
 
 New Compilation time flags for the SIDM scattering are:
 
