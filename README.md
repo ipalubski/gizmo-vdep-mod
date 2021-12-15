@@ -6,4 +6,7 @@ SIDM_ANISOTROPIC
 
 These need to be set in addition to DM_SIDM
 
+Installation:
+Simply copy and replace these files in the main GIZMO directory.
+
 For Use, Authorship & Citation Requirements see section 3 of the GIZMO documentation: http://www.tapir.caltech.edu/~phopkins/Site/GIZMO_files/gizmo_documentation.html
